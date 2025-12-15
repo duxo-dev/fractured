@@ -1,0 +1,2 @@
+tellraw @a[scores={fractured.linked=1..}] {"text":"Everyone else (except Duxo) thinks that there is a boogeyman.. if you tell ANYONE that you are soulbound, you will fail.","color":"red"}
+schedule function session2:goodluck 10s

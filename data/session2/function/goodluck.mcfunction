@@ -1,0 +1,1 @@
+title @a[scores={fractured.linked=1..}] title {color:red,text:"Good Luck!"}
